@@ -2,7 +2,7 @@
 
 > Interactive dashboard helping green technology companies optimize cloud architecture decisions across cost, sustainability, and security.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]()
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://green-tech-cloud-architecture-decision-tool.streamlit.app/)
 
 ## Overview
 
@@ -58,7 +58,7 @@ A data-driven decision support tool that addresses the unique challenge facing g
 
 ## Quick Start
 
-1. **Try the live demo**: [Launch Dashboard]()
+1. **Try the live demo**: [Launch Dashboard](https://green-tech-cloud-architecture-decision-tool.streamlit.app/)
 
 2. **Run locally**:
    ```bash
